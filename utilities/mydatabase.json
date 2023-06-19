@@ -1,0 +1,1015 @@
+{
+    "products": [
+        {
+            "id": "90e62723-d079-4bca-b1a1-092e7da3f55a",
+            "product_class": null,
+            "sku": "allblack",
+            "parent_id": null,
+            "name": "tuwaiq collection",
+            "slug": "tuwaiq-collection",
+            "price": 1725,
+            "sale_price": 530,
+            "formatted_price": " SAR 1,725.00",
+            "formatted_sale_price": " SAR 530.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32766
+                },
+                {
+                    "id": "426121",
+                    "name": "مجموعة طويق",
+                    "slug": "مجموعة-طويق",
+                    "description": "تحتوي هذه المجموعة السوداء على ثلاث عطورات وتتميز المجموعة بثقل النوتات العطرية.",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/7859282a-a846-4e28-b29a-e372a2cd38e0.jpg",
+                    "display_order": null
+                }
+            ],
+            "display_order": 32766,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "25c51005-e98a-4226-b166-83f166be66b4",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/25c51005-e98a-4226-b166-83f166be66b4-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/25c51005-e98a-4226-b166-83f166be66b4-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/25c51005-e98a-4226-b166-83f166be66b4-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/25c51005-e98a-4226-b166-83f166be66b4-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/25c51005-e98a-4226-b166-83f166be66b4-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 2337,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/tuwaiq-collection",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "مجموعة طويق",
+                "description": ""
+            },
+            "rating": {
+                "average": 5,
+                "total_count": 6,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "5_ratings": {
+                    "percentage": 100,
+                    "count": 6
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "ec87a61f-da93-4c25-9668-adedf54746cc",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 2337,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 7680,
+            "created_at": "2022-05-29T18:32:58.831738Z",
+            "updated_at": "2022-12-15T19:47:27.308690Z"
+        },
+        {
+            "id": "1a660918-3a1e-4576-82af-3d0d2881d609",
+            "product_class": null,
+            "sku": "AMBER",
+            "parent_id": null,
+            "name": "عنبر",
+            "slug": "amber",
+            "price": 575,
+            "sale_price": 175,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 175.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380450",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": null
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32766
+                },
+                {
+                    "id": "426121",
+                    "name": "مجموعة طويق",
+                    "slug": "مجموعة-طويق",
+                    "description": "تحتوي هذه المجموعة السوداء على ثلاث عطورات وتتميز المجموعة بثقل النوتات العطرية.",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/7859282a-a846-4e28-b29a-e372a2cd38e0.jpg",
+                    "display_order": null
+                }
+            ],
+            "display_order": 32766,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/18bedd1b-4ab6-43e8-b6c5-0a8ac33ea37c-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 142,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/amber",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "عنبر",
+                "description": ""
+            },
+            "rating": {
+                "average": 4.86,
+                "total_count": 56,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 14.29,
+                    "count": 8
+                },
+                "5_ratings": {
+                    "percentage": 85.71,
+                    "count": 48
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "25597d2f-eb08-48cb-bef5-ebc8dc8959ad",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 142,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 12556,
+            "created_at": "2022-02-24T18:22:48.234054Z",
+            "updated_at": "2022-12-27T01:56:12.826329Z"
+        },
+        {
+            "id": "147903dc-ebee-4a80-8c99-5b863a22fcbc",
+            "product_class": null,
+            "sku": "OUD",
+            "parent_id": null,
+            "name": "عود",
+            "slug": "oud",
+            "price": 575,
+            "sale_price": 149,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 149.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380449",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": null
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32766
+                },
+                {
+                    "id": "426121",
+                    "name": "مجموعة طويق",
+                    "slug": "مجموعة-طويق",
+                    "description": "تحتوي هذه المجموعة السوداء على ثلاث عطورات وتتميز المجموعة بثقل النوتات العطرية.",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/7859282a-a846-4e28-b29a-e372a2cd38e0.jpg",
+                    "display_order": null
+                }
+            ],
+            "display_order": 32766,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "fb06a855-03d5-4b56-bc36-a0514d33d6b2",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fb06a855-03d5-4b56-bc36-a0514d33d6b2-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fb06a855-03d5-4b56-bc36-a0514d33d6b2-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fb06a855-03d5-4b56-bc36-a0514d33d6b2-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fb06a855-03d5-4b56-bc36-a0514d33d6b2-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fb06a855-03d5-4b56-bc36-a0514d33d6b2-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 8785,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/oud",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "عود",
+                "description": ""
+            },
+            "rating": {
+                "average": 4.79,
+                "total_count": 39,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 5.13,
+                    "count": 2
+                },
+                "4_ratings": {
+                    "percentage": 10.26,
+                    "count": 4
+                },
+                "5_ratings": {
+                    "percentage": 84.62,
+                    "count": 33
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "41a2e750-94a1-47c8-a0c4-fd93f5deb9b5",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 8785,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 26647,
+            "created_at": "2022-02-24T18:22:16.135280Z",
+            "updated_at": "2023-06-19T08:54:04.197686Z"
+        },
+        {
+            "id": "f432e2e3-8884-4682-8487-ce39d44a17bc",
+            "product_class": null,
+            "sku": "tobacco",
+            "parent_id": null,
+            "name": "توباكو",
+            "slug": "tobacco",
+            "price": 575,
+            "sale_price": 149,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 149.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380451",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": null
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32766
+                },
+                {
+                    "id": "426121",
+                    "name": "مجموعة طويق",
+                    "slug": "مجموعة-طويق",
+                    "description": "تحتوي هذه المجموعة السوداء على ثلاث عطورات وتتميز المجموعة بثقل النوتات العطرية.",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/7859282a-a846-4e28-b29a-e372a2cd38e0.jpg",
+                    "display_order": null
+                }
+            ],
+            "display_order": 32766,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "db912915-8b5e-449a-9977-a15aae3a45c3",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/db912915-8b5e-449a-9977-a15aae3a45c3-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/db912915-8b5e-449a-9977-a15aae3a45c3-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/db912915-8b5e-449a-9977-a15aae3a45c3-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/db912915-8b5e-449a-9977-a15aae3a45c3-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/db912915-8b5e-449a-9977-a15aae3a45c3-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                },
+                {
+                    "id": "12455084-ac09-4ad0-b747-302616912abd",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/12455084-ac09-4ad0-b747-302616912abd-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/12455084-ac09-4ad0-b747-302616912abd-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/12455084-ac09-4ad0-b747-302616912abd-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/12455084-ac09-4ad0-b747-302616912abd-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/12455084-ac09-4ad0-b747-302616912abd-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 1
+                },
+                {
+                    "id": "2b9677e2-1869-4069-a1c0-a6da6a3a801c",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/2b9677e2-1869-4069-a1c0-a6da6a3a801c-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/2b9677e2-1869-4069-a1c0-a6da6a3a801c-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/2b9677e2-1869-4069-a1c0-a6da6a3a801c-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/2b9677e2-1869-4069-a1c0-a6da6a3a801c-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/2b9677e2-1869-4069-a1c0-a6da6a3a801c-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 2
+                },
+                {
+                    "id": "fd4c7c9d-83a9-42b8-b438-9a50e3c09760",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fd4c7c9d-83a9-42b8-b438-9a50e3c09760-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fd4c7c9d-83a9-42b8-b438-9a50e3c09760-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fd4c7c9d-83a9-42b8-b438-9a50e3c09760-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fd4c7c9d-83a9-42b8-b438-9a50e3c09760-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/fd4c7c9d-83a9-42b8-b438-9a50e3c09760-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 3
+                }
+            ],
+            "is_draft": false,
+            "quantity": 1242,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/tobacco",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "توباكو",
+                "description": ""
+            },
+            "rating": {
+                "average": 4.83,
+                "total_count": 110,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0.91,
+                    "count": 1
+                },
+                "3_ratings": {
+                    "percentage": 2.73,
+                    "count": 3
+                },
+                "4_ratings": {
+                    "percentage": 9.09,
+                    "count": 10
+                },
+                "5_ratings": {
+                    "percentage": 87.27,
+                    "count": 96
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "a64d666f-01a1-4ef4-97e9-9304680ae476",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 1242,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 15818,
+            "created_at": "2022-02-24T18:15:07.547908Z",
+            "updated_at": "2023-06-19T09:02:20.265769Z"
+        },
+        {
+            "id": "ccf2ff7f-f125-418f-b131-df8caee87f77",
+            "product_class": null,
+            "sku": "allwhite",
+            "parent_id": null,
+            "name": "مجموعة سحاب",
+            "slug": "sahabcollaction",
+            "price": 1335,
+            "sale_price": 530,
+            "formatted_price": " SAR 1,335.00",
+            "formatted_sale_price": " SAR 530.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32767
+                },
+                {
+                    "id": "426119",
+                    "name": "مجموعة سحاب",
+                    "slug": "sahab-collection",
+                    "description": "تحتوي هذه المجموعة البيضاء على ثلاثة عطور شرقية تتميز بهدوء النوتات العطرية. مجموعة سحاب المجموعة البيضاء من عطور فارس وتشمل الاوركيد - الباتشولي - المسك حجم العبوة 100 مل + عبوة مجانية رول 10 مل زيت عطري",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/3baa9f00-a5e7-437a-bb10-96b4e0822655.jpg",
+                    "display_order": 32767
+                }
+            ],
+            "display_order": 32767,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "5a7825ac-0749-4fb6-859e-591700d05dfc",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/5a7825ac-0749-4fb6-859e-591700d05dfc-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/5a7825ac-0749-4fb6-859e-591700d05dfc-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/5a7825ac-0749-4fb6-859e-591700d05dfc-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/5a7825ac-0749-4fb6-859e-591700d05dfc-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/5a7825ac-0749-4fb6-859e-591700d05dfc-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 0,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/sahabcollaction",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "مجموعة سحاب",
+                "description": ""
+            },
+            "rating": {
+                "average": 5,
+                "total_count": 2,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "5_ratings": {
+                    "percentage": 100,
+                    "count": 2
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "f77bb733-757b-4c6c-9a51-4481bdd0c4f5",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 0,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 3337,
+            "created_at": "2022-05-29T18:14:02.399232Z",
+            "updated_at": "2023-01-15T12:18:25.744205Z"
+        },
+        {
+            "id": "2ff6dd2c-18b6-4332-ac84-78c11c508c8d",
+            "product_class": null,
+            "sku": "ORCHID",
+            "parent_id": null,
+            "name": "اوركيد",
+            "slug": "orchid",
+            "price": 575,
+            "sale_price": 175,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 175.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380452",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": 32767
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32767
+                },
+                {
+                    "id": "426119",
+                    "name": "مجموعة سحاب",
+                    "slug": "sahab-collection",
+                    "description": "تحتوي هذه المجموعة البيضاء على ثلاثة عطور شرقية تتميز بهدوء النوتات العطرية. مجموعة سحاب المجموعة البيضاء من عطور فارس وتشمل الاوركيد - الباتشولي - المسك حجم العبوة 100 مل + عبوة مجانية رول 10 مل زيت عطري",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/3baa9f00-a5e7-437a-bb10-96b4e0822655.jpg",
+                    "display_order": 32767
+                }
+            ],
+            "display_order": 32767,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "a94d74b2-fd70-40d4-9cc1-885f8d61a776",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/a94d74b2-fd70-40d4-9cc1-885f8d61a776-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/a94d74b2-fd70-40d4-9cc1-885f8d61a776-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/a94d74b2-fd70-40d4-9cc1-885f8d61a776-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/a94d74b2-fd70-40d4-9cc1-885f8d61a776-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/a94d74b2-fd70-40d4-9cc1-885f8d61a776-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 0,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/orchid",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "اوركيد",
+                "description": ""
+            },
+            "rating": {
+                "average": 4.86,
+                "total_count": 29,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 13.79,
+                    "count": 4
+                },
+                "5_ratings": {
+                    "percentage": 86.21,
+                    "count": 25
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "7f22b92a-46ac-4fb4-8f2c-980c171cd2bd",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 0,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 4768,
+            "created_at": "2022-02-24T18:11:49.114164Z",
+            "updated_at": "2023-02-06T16:39:12.255655Z"
+        },
+        {
+            "id": "599173d9-e2a7-4a17-8fa9-b1b115222a2c",
+            "product_class": null,
+            "sku": "MUSK",
+            "parent_id": null,
+            "name": "مسك",
+            "slug": "musk",
+            "price": 575,
+            "sale_price": 175,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 175.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380453",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": 32767
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": 32767
+                },
+                {
+                    "id": "426119",
+                    "name": "مجموعة سحاب",
+                    "slug": "sahab-collection",
+                    "description": "تحتوي هذه المجموعة البيضاء على ثلاثة عطور شرقية تتميز بهدوء النوتات العطرية. مجموعة سحاب المجموعة البيضاء من عطور فارس وتشمل الاوركيد - الباتشولي - المسك حجم العبوة 100 مل + عبوة مجانية رول 10 مل زيت عطري",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/3baa9f00-a5e7-437a-bb10-96b4e0822655.jpg",
+                    "display_order": 32767
+                }
+            ],
+            "display_order": 32767,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "14d609c5-f066-47e5-b011-0d88c37ffe7a",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/14d609c5-f066-47e5-b011-0d88c37ffe7a-thumbnail-770x770-70.jpg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/14d609c5-f066-47e5-b011-0d88c37ffe7a-thumbnail-100x100-70.jpg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/14d609c5-f066-47e5-b011-0d88c37ffe7a-thumbnail-770x770-70.jpg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/14d609c5-f066-47e5-b011-0d88c37ffe7a-thumbnail-500x500-70.jpg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/14d609c5-f066-47e5-b011-0d88c37ffe7a-thumbnail-370x370-70.jpg"
+                    },
+                    "alt_text": null,
+                    "display_order": 0
+                }
+            ],
+            "is_draft": false,
+            "quantity": 0,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/musk",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "مسك",
+                "description": "عطر مسك"
+            },
+            "rating": {
+                "average": 4.89,
+                "total_count": 18,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 11.11,
+                    "count": 2
+                },
+                "5_ratings": {
+                    "percentage": 88.89,
+                    "count": 16
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": 1,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "b8bf2b90-d079-4373-bfca-b6204a415b5c",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 0,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 5128,
+            "created_at": "2022-02-18T15:58:03.026760Z",
+            "updated_at": "2023-02-20T03:36:49.987888Z"
+        },
+        {
+            "id": "1fddea69-336a-4b30-97f6-4dd7762000c2",
+            "product_class": null,
+            "sku": "PATCHOULI01",
+            "parent_id": null,
+            "name": "باتشولي",
+            "slug": "patchouli",
+            "price": 575,
+            "sale_price": 149,
+            "formatted_price": " SAR 575.00",
+            "formatted_sale_price": " SAR 149.00",
+            "currency": "SAR",
+            "currency_symbol": " SAR ",
+            "attributes": [],
+            "categories": [
+                {
+                    "id": "380454",
+                    "name": null,
+                    "slug": null,
+                    "description": null,
+                    "cover_image": null,
+                    "image": null,
+                    "display_order": null
+                },
+                {
+                    "id": "383620",
+                    "name": "جميع المنتجات",
+                    "slug": "tuwaiq-collection",
+                    "description": "جميع منتجات متجر عطور فارس",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/4cc893e0-fde5-4f6e-973d-a187744ae309.jpg",
+                    "display_order": null
+                },
+                {
+                    "id": "426119",
+                    "name": "مجموعة سحاب",
+                    "slug": "sahab-collection",
+                    "description": "تحتوي هذه المجموعة البيضاء على ثلاثة عطور شرقية تتميز بهدوء النوتات العطرية. مجموعة سحاب المجموعة البيضاء من عطور فارس وتشمل الاوركيد - الباتشولي - المسك حجم العبوة 100 مل + عبوة مجانية رول 10 مل زيت عطري",
+                    "cover_image": null,
+                    "image": "06a68f1e-1c88-4f0c-a571-c332ab64d0fa/3baa9f00-a5e7-437a-bb10-96b4e0822655.jpg",
+                    "display_order": null
+                }
+            ],
+            "display_order": null,
+            "has_options": false,
+            "has_fields": false,
+            "images": [
+                {
+                    "id": "f9d02ad1-592d-45b7-8473-4b5cd8e5805b",
+                    "image": {
+                        "full_size": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/f9d02ad1-592d-45b7-8473-4b5cd8e5805b-thumbnail-770x770-70.jpeg",
+                        "thumbnail": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/f9d02ad1-592d-45b7-8473-4b5cd8e5805b-thumbnail-100x100-70.jpeg",
+                        "large": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/f9d02ad1-592d-45b7-8473-4b5cd8e5805b-thumbnail-770x770-70.jpeg",
+                        "medium": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/f9d02ad1-592d-45b7-8473-4b5cd8e5805b-thumbnail-500x500-70.jpeg",
+                        "small": "https://media.zid.store/thumbs/06a68f1e-1c88-4f0c-a571-c332ab64d0fa/f9d02ad1-592d-45b7-8473-4b5cd8e5805b-thumbnail-370x370-70.jpeg"
+                    },
+                    "alt_text": null,
+                    "display_order": 1
+                }
+            ],
+            "is_draft": false,
+            "quantity": 1138,
+            "is_infinite": false,
+            "html_url": "https://farisperfumesa.com/products/patchouli",
+            "weight": {
+                "value": 0,
+                "unit": "kg"
+            },
+            "keywords": [],
+            "requires_shipping": true,
+            "is_taxable": true,
+            "structure": "standalone",
+            "seo": {
+                "title": "باتشولي",
+                "description": ""
+            },
+            "rating": {
+                "average": 5,
+                "total_count": 46,
+                "1_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "2_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "3_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "4_ratings": {
+                    "percentage": 0,
+                    "count": 0
+                },
+                "5_ratings": {
+                    "percentage": 100,
+                    "count": 46
+                }
+            },
+            "store_id": 172911,
+            "purchase_restrictions": {
+                "min_quantity_per_cart": null,
+                "max_quantity_per_cart": null,
+                "availability_period_start": null,
+                "availability_period_end": null
+            },
+            "meta": null,
+            "stocks": [
+                {
+                    "id": "e59b4dd8-8a06-4cd8-a914-8c442d46f5b8",
+                    "location": {
+                        "id": "2e3ac978-7bd3-4b1c-9bc7-22cb1163af2c",
+                        "name": "سلاسة",
+                        "type": "PHYSICAL"
+                    },
+                    "available_quantity": 1138,
+                    "is_infinite": false
+                }
+            ],
+            "sold_products_count": 50952,
+            "created_at": "2022-02-24T18:14:19.231745Z",
+            "updated_at": "2023-06-19T09:02:11.773345Z"
+        }
+    ],
+    "_id": "Y109djGMvHQXaAwS"
+}
